@@ -9,7 +9,7 @@
     }
   ],
   "start_url": "https://olivierbretaud.github.io/to-do-list-hooks/index.html",
-  "display": "standalone",
+  "display": "fullscreen",
   "theme_color": "#000000",
   "background_color": "#ffffff"
 }
