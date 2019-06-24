@@ -1,6 +1,6 @@
 {
-  "name": "to-do-hooks",
-  "homepage": "https://olivierbretaud.github.io/to-do-list-hooks/",
+  "name": "pwa-video-player",
+  "homepage": "https://olivierbretaud.github.io/pwa-video-player/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -16,7 +16,6 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
-    
   },
   "eslintConfig": {
     "extends": "react-app"

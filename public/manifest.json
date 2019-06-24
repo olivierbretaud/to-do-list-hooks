@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "pwa-video-player",
+  "name": "pwa-video-player",
   "icons": [
     {
       "src": "react.png",
@@ -8,7 +8,7 @@
       "type": "image/png"
     }
   ],
-  "start_url": "https://olivierbretaud.github.io/to-do-list-hooks/index.html",
+  "start_url": "https://olivierbretaud.github.io/pwa-video-player/index.html",
   "display": "fullscreen",
   "theme_color": "#000000",
   "background_color": "#ffffff"
